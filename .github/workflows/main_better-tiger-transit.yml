@@ -25,8 +25,9 @@ jobs:
 
       - name: npm init, install, build, and test
         run: |
-          cd server
+          cd client
           npm install
+          npm run built
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
