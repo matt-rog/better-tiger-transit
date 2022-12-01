@@ -79,7 +79,7 @@ function App() {
   return (
     <div className='container'>
 
-        <Button style={{position: 'fixed', top: 20, right: 20, zIndex: 100}} 
+        <Button style={{position: 'fixed', bottom: 20, right: 20, zIndex: 100}} 
           href="https://github.com/Matt-Rog/better-tiger-transit" target="_blank" rel="noopener noreferrer"
           className='bg-gradient-to-r to-blue-600 from-indigo-600'>
             <img alt="GitHub Logo" className="logo" src={githubLogo}>
