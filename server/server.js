@@ -1,13 +1,10 @@
 const { response } = require('express');
-const express = require('express');
 const fetch = require('node-fetch');
-
-
-const app = express();
-
-app.get('/api', (req, res) => {
-    res.json({'msg': 'it works! :)'})
-})
+const express = require('express');
+const path = require('path');
+const app = express(),
+      bodyParser = require("body-parser");
+      port = 8080;
 
 app.get('/stops', (req, res) => {
     fetch('https://auburn.doublemap.com/map/v2/stops')
@@ -39,4 +36,14 @@ app.get('/routes', (req, res) => {
     }); 
 })
 
-app.listen(8080, () => {console.log("running on 8080 :)")})
+app.use(bodyParser.json());
+app.use(express.static(process.cwd()+"/my-app/build/"));
+
+
+app.get('/', (req,res) => {
+  res.sendFile(process.cwd()+"/my-app/build/index.html");
+});
+
+app.listen(port, () => {
+    console.log(`Server listening on the port::${port}`);
+});
