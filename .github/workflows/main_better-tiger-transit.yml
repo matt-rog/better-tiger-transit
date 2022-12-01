@@ -46,14 +46,12 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: node-app
-          app_location: "/client/public"
 
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
           app-name: 'better-tiger-transit'
-          app-directory: '/client/public'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53CE83FCBE864246BE847492BCC12D7D }}
           package: .
