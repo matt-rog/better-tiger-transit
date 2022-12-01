@@ -1,0 +1,766 @@
+[
+    {
+        "id": 107,
+        "name": "21_126",
+        "lat": 32.61068,
+        "lon": -85.49031,
+        "heading": 3,
+        "route": 148,
+        "lastStop": 47,
+        "fields": {
+            "alternateId": "2298,2198"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 18
+    },
+    {
+        "id": 134,
+        "name": "21_153",
+        "lat": 32.60176,
+        "lon": -85.48774,
+        "heading": 98,
+        "route": 168,
+        "lastStop": 47,
+        "fields": {
+            "alternateId": "2246,2184"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 101,
+        "name": "21_120",
+        "lat": 32.58026,
+        "lon": -85.48832,
+        "heading": 182,
+        "route": 167,
+        "lastStop": 54,
+        "fields": {
+            "alternateId": "2272,2186"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 131,
+        "name": "21_150",
+        "lat": 32.60172,
+        "lon": -85.48785,
+        "heading": 26,
+        "route": 4,
+        "lastStop": 47,
+        "fields": {
+            "alternateId": "2199,2249"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 133,
+        "name": "21_152",
+        "lat": 32.60921,
+        "lon": -85.48054,
+        "heading": 270,
+        "route": 26,
+        "lastStop": 102,
+        "fields": {
+            "alternateId": "2231,2293"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194916,
+        "capacity": 27,
+        "load": 2
+    },
+    {
+        "id": 82,
+        "name": "21_101",
+        "lat": 32.60523,
+        "lon": -85.49037,
+        "heading": 0,
+        "route": 134,
+        "lastStop": 57,
+        "fields": {
+            "alternateId": "2297,2215"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 11
+    },
+    {
+        "id": 91,
+        "name": "21_110",
+        "lat": 32.60481,
+        "lon": -85.49053,
+        "heading": 88,
+        "route": 2,
+        "lastStop": 87,
+        "fields": {
+            "alternateId": "2238,2274"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 49
+    },
+    {
+        "id": 102,
+        "name": "21_121",
+        "lat": 32.57764,
+        "lon": -85.48993,
+        "heading": 270,
+        "route": 100,
+        "lastStop": 177,
+        "fields": {
+            "alternateId": "2287,2209"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 2
+    },
+    {
+        "id": 145,
+        "name": "21_164",
+        "lat": 32.60114,
+        "lon": -85.49055,
+        "heading": 181,
+        "route": 144,
+        "lastStop": 47,
+        "fields": {
+            "alternateId": "2253,2259"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 5
+    },
+    {
+        "id": 113,
+        "name": "21_132",
+        "lat": 32.59178,
+        "lon": -85.49029,
+        "heading": 177,
+        "route": 156,
+        "lastStop": 57,
+        "fields": {
+            "alternateId": "2172,2213"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 74,
+        "name": "jAUnt_1",
+        "lat": 32.60248,
+        "lon": -85.48748,
+        "heading": 0,
+        "route": 36,
+        "lastStop": 56,
+        "fields": {},
+        "bus_type": "bus",
+        "lastUpdate": 1668194913
+    },
+    {
+        "id": 128,
+        "name": "21_147",
+        "lat": 32.60906,
+        "lon": -85.49089,
+        "heading": 93,
+        "route": 6,
+        "lastStop": 77,
+        "fields": {
+            "alternateId": "2205,2235"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 1
+    },
+    {
+        "id": 125,
+        "name": "21_144",
+        "lat": 32.62006,
+        "lon": -85.4692,
+        "heading": 251,
+        "route": 152,
+        "lastStop": 99,
+        "fields": {
+            "alternateId": "2179,2227"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 123,
+        "name": "21_142",
+        "lat": 32.60113,
+        "lon": -85.48326,
+        "heading": 80,
+        "route": 28,
+        "lastStop": 196,
+        "fields": {
+            "alternateId": "2180,2237"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 132,
+        "name": "21_151",
+        "lat": 32.62268,
+        "lon": -85.47977,
+        "heading": 349,
+        "route": 159,
+        "lastStop": 200,
+        "fields": {
+            "alternateId": "2228,2197"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 9
+    },
+    {
+        "id": 94,
+        "name": "21_113",
+        "lat": 32.60331,
+        "lon": -85.48986,
+        "heading": 234,
+        "route": 9,
+        "lastStop": 56,
+        "fields": {
+            "alternateId": "2245,2200"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 137,
+        "name": "21_156",
+        "lat": 32.61215,
+        "lon": -85.49038,
+        "heading": 180,
+        "route": 97,
+        "lastStop": 69,
+        "fields": {
+            "alternateId": "2165,2251"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194915,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 111,
+        "name": "21_130",
+        "lat": 32.57425,
+        "lon": -85.51826,
+        "heading": 176,
+        "route": 162,
+        "lastStop": 33,
+        "fields": {
+            "alternateId": "2208,2264"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194916,
+        "capacity": 27,
+        "load": 17
+    },
+    {
+        "id": 110,
+        "name": "21_129",
+        "lat": 32.59053,
+        "lon": -85.49016,
+        "heading": 358,
+        "route": 125,
+        "lastStop": 147,
+        "fields": {
+            "alternateId": "2182,2244"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 3
+    },
+    {
+        "id": 135,
+        "name": "21_154",
+        "lat": 32.59763,
+        "lon": -85.49047,
+        "heading": 174,
+        "route": 149,
+        "lastStop": 47,
+        "fields": {
+            "alternateId": "2171,2265"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 116,
+        "name": "21_135",
+        "lat": 32.60228,
+        "lon": -85.4876,
+        "heading": 360,
+        "route": 140,
+        "lastStop": 56,
+        "fields": {
+            "alternateId": "2203,2247"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 90,
+        "name": "21_109",
+        "lat": 32.60894,
+        "lon": -85.47987,
+        "heading": 1,
+        "route": 31,
+        "lastStop": 150,
+        "fields": {
+            "alternateId": "2254,2185"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 19
+    },
+    {
+        "id": 112,
+        "name": "21_131",
+        "lat": 32.60353,
+        "lon": -85.48935,
+        "heading": 248,
+        "route": 139,
+        "lastStop": 56,
+        "fields": {
+            "alternateId": "2214,2216"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 4
+    },
+    {
+        "id": 103,
+        "name": "21_122",
+        "lat": 32.60884,
+        "lon": -85.46485,
+        "heading": 1,
+        "route": 151,
+        "lastStop": 196,
+        "fields": {
+            "alternateId": "2224,2169"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 1
+    },
+    {
+        "id": 73,
+        "name": "Van_195",
+        "lat": 32.63758,
+        "lon": -85.48165,
+        "heading": 3,
+        "route": 79,
+        "lastStop": null,
+        "fields": {},
+        "bus_type": "bus",
+        "lastUpdate": 1668194917
+    },
+    {
+        "id": 98,
+        "name": "21_117",
+        "lat": 32.57824,
+        "lon": -85.52387,
+        "heading": 222,
+        "route": 143,
+        "lastStop": 65,
+        "fields": {
+            "alternateId": "2236,2271"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 2
+    },
+    {
+        "id": 109,
+        "name": "21_128",
+        "lat": 32.61513,
+        "lon": -85.47583,
+        "heading": 182,
+        "route": 137,
+        "lastStop": 130,
+        "fields": {
+            "alternateId": "2210,2174"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 124,
+        "name": "21_143",
+        "lat": 32.60548,
+        "lon": -85.49037,
+        "heading": 6,
+        "route": 138,
+        "lastStop": 47,
+        "fields": {
+            "alternateId": "2255,2232"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 136,
+        "name": "21_155",
+        "lat": 32.60446,
+        "lon": -85.46514,
+        "heading": 90,
+        "route": 154,
+        "lastStop": 134,
+        "fields": {
+            "alternateId": "2170,2190"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 72,
+        "name": "Van_194",
+        "lat": 32.6032,
+        "lon": -85.49828,
+        "heading": 0,
+        "route": 46,
+        "lastStop": null,
+        "fields": {},
+        "bus_type": "bus",
+        "lastUpdate": 1668194913
+    },
+    {
+        "id": 138,
+        "name": "21_157",
+        "lat": 32.602,
+        "lon": -85.48169,
+        "heading": 358,
+        "route": 99,
+        "lastStop": 196,
+        "fields": {
+            "alternateId": "2299,2291"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 1
+    },
+    {
+        "id": 79,
+        "name": "WEE_1",
+        "lat": 32.59396,
+        "lon": -85.4866,
+        "heading": 0,
+        "route": 170,
+        "lastStop": 56,
+        "fields": {},
+        "bus_type": "bus",
+        "lastUpdate": 1668194911
+    },
+    {
+        "id": 97,
+        "name": "21_116",
+        "lat": 32.59773,
+        "lon": -85.4951,
+        "heading": 231,
+        "route": 198,
+        "lastStop": 198,
+        "fields": {
+            "alternateId": "2273,2262"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 117,
+        "name": "21_136",
+        "lat": 32.58648,
+        "lon": -85.49249,
+        "heading": 271,
+        "route": 124,
+        "lastStop": 57,
+        "fields": {
+            "alternateId": "2175,2294"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 16
+    },
+    {
+        "id": 77,
+        "name": "jAUnt_4",
+        "lat": 32.60047,
+        "lon": -85.48834,
+        "heading": 0,
+        "route": 39,
+        "lastStop": 56,
+        "fields": {},
+        "bus_type": "bus",
+        "lastUpdate": 1668194913
+    },
+    {
+        "id": 146,
+        "name": "21_165",
+        "lat": 32.57146,
+        "lon": -85.50343,
+        "heading": 95,
+        "route": 161,
+        "lastStop": 116,
+        "fields": {
+            "alternateId": "2292,2261"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 3
+    },
+    {
+        "id": 120,
+        "name": "21_139",
+        "lat": 32.60098,
+        "lon": -85.4904,
+        "heading": 52,
+        "route": 1,
+        "lastStop": 133,
+        "fields": {
+            "alternateId": "2164,2243"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 8
+    },
+    {
+        "id": 96,
+        "name": "21_115",
+        "lat": 32.60661,
+        "lon": -85.47314,
+        "heading": 200,
+        "route": 135,
+        "lastStop": 20,
+        "fields": {
+            "alternateId": "2285,2269"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 3
+    },
+    {
+        "id": 139,
+        "name": "21_158",
+        "lat": 32.60085,
+        "lon": -85.48384,
+        "heading": 357,
+        "route": 94,
+        "lastStop": 122,
+        "fields": {
+            "alternateId": "2222,2181"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 144,
+        "name": "21_163",
+        "lat": 32.60147,
+        "lon": -85.4883,
+        "heading": 37,
+        "route": 96,
+        "lastStop": 110,
+        "fields": {
+            "alternateId": "2284,2233"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194916,
+        "capacity": 27,
+        "load": 3
+    },
+    {
+        "id": 100,
+        "name": "21_119",
+        "lat": 32.60509,
+        "lon": -85.49042,
+        "heading": 182,
+        "route": 127,
+        "lastStop": 115,
+        "fields": {
+            "alternateId": "2188,2258"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 33
+    },
+    {
+        "id": 108,
+        "name": "21_127",
+        "lat": 32.60241,
+        "lon": -85.48752,
+        "heading": 4,
+        "route": 33,
+        "lastStop": 56,
+        "fields": {
+            "alternateId": "2242,2176"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 87,
+        "name": "21_106",
+        "lat": 32.601,
+        "lon": -85.48946,
+        "heading": 89,
+        "route": 158,
+        "lastStop": 115,
+        "fields": {
+            "alternateId": "2223,2183"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 141,
+        "name": "21_160",
+        "lat": 32.6071,
+        "lon": -85.4903,
+        "heading": 1,
+        "route": 7,
+        "lastStop": 57,
+        "fields": {
+            "alternateId": "2241,2229"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194916,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 129,
+        "name": "21_148",
+        "lat": 32.6065,
+        "lon": -85.46495,
+        "heading": 180,
+        "route": 5,
+        "lastStop": 126,
+        "fields": {
+            "alternateId": "2192,2279"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 0
+    },
+    {
+        "id": 115,
+        "name": "21_134",
+        "lat": 32.58259,
+        "lon": -85.48979,
+        "heading": 273,
+        "route": 11,
+        "lastStop": 165,
+        "fields": {
+            "alternateId": "2162,2280"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 11
+    },
+    {
+        "id": 83,
+        "name": "21_102",
+        "lat": 32.56397,
+        "lon": -85.49914,
+        "heading": 107,
+        "route": 142,
+        "lastStop": 148,
+        "fields": {
+            "alternateId": "2239,2173"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 27,
+        "load": 11
+    },
+    {
+        "id": 151,
+        "name": "21_170",
+        "lat": 32.60233,
+        "lon": -85.48168,
+        "heading": 1,
+        "route": 190,
+        "lastStop": 196,
+        "fields": {
+            "alternateId": "2201"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194917,
+        "capacity": 14,
+        "load": 0
+    },
+    {
+        "id": 85,
+        "name": "21_104",
+        "lat": 32.60254,
+        "lon": -85.48762,
+        "heading": 1,
+        "route": 141,
+        "lastStop": 56,
+        "fields": {
+            "alternateId": "2252,2260"
+        },
+        "bus_type": "bus",
+        "lastUpdate": 1668194918,
+        "capacity": 27,
+        "load": 21
+    }
+]
