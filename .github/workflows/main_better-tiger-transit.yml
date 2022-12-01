@@ -27,7 +27,7 @@ jobs:
         run: |
           cd client
           npm install
-          npm run built
+          npm run build
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
