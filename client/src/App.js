@@ -25,25 +25,25 @@ function App() {
     setValidStarts(stops.sort(function(x,y){ return x.id.toString() === "87" ? -1 : y.id.toString() === "87" ? 1 : 0; }))
     setValidEnds(stops.filter(stop => stop.id.toString() !== "87").sort(function(x,y){ return x.id.toString() === "191" ? -1 : y.id.toString() === "191" ? 1 : 0; }))
 
-    fetch("/stops").then(
-      response => response.json()
-    ).then(
-      data => {
-        // Using temp data
-        // data = stops
-        // setStopData(data)
-        // setValidStarts(data.sort(function(x,y){ return x.id.toString() === "87" ? -1 : y.id.toString() === "87" ? 1 : 0; }))
-        // setValidEnds(data.filter(stop => stop.id.toString() !== "87").sort(function(x,y){ return x.id.toString() === "191" ? -1 : y.id.toString() === "191" ? 1 : 0; }))
-      }
-    )
+    // fetch("/stops").then(
+    //   response => response.json()
+    // ).then(
+    //   data => {
+    //     // Using temp data
+    //     // data = stops
+    //     // setStopData(data)
+    //     // setValidStarts(data.sort(function(x,y){ return x.id.toString() === "87" ? -1 : y.id.toString() === "87" ? 1 : 0; }))
+    //     // setValidEnds(data.filter(stop => stop.id.toString() !== "87").sort(function(x,y){ return x.id.toString() === "191" ? -1 : y.id.toString() === "191" ? 1 : 0; }))
+    //   }
+    // )
 
-    fetch("/routes").then(
-      response => response.json()
-    ).then(
-      data => {
-        setRouteData(data)
-      }
-    )
+  //   fetch("/routes").then(
+  //     response => response.json()
+  //   ).then(
+  //     data => {
+  //       setRouteData(data)
+  //     }
+  //   )
   }, [])
 
   function graphDriver() {
