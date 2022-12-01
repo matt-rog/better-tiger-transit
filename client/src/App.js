@@ -10,7 +10,7 @@ import routes from './assets/routes.json';
 function App() {
 
   const [stopData, setStopData] = useState([])
-  const [routeData, setRouteData] = useState([])
+//  const [routeData, setRouteData] = useState([])
 
   const [validStarts, setValidStarts] = useState([])
   const [validEnds, setValidEnds] = useState([])
