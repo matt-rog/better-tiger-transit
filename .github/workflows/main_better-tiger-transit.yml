@@ -51,6 +51,7 @@ jobs:
         uses: azure/webapps-deploy@v2
         with:
           app-name: 'better-tiger-transit'
+          app_location: "/client/public" # App source code path
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53CE83FCBE864246BE847492BCC12D7D }}
           package: .
