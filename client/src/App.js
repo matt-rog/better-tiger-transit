@@ -80,6 +80,10 @@ function App() {
         <h1 className="mb-4 text-3xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl">A
         <span className="text-transparent bg-clip-text bg-gradient-to-r to-blue-600 from-indigo-600"> Better </span>
         Tiger Transit</h1>
+        <p class="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Find the quickest route between bus stops at Auburn University.
+
+</p>
+
     
     <div className='input'>
 
