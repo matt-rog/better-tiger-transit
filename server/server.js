@@ -6,6 +6,8 @@ const app = express(),
       bodyParser = require("body-parser");
       port = 8080;
 
+app.use(express.static(path.join(__dirname + "public")))
+
 app.get('/stops', (req, res) => {
     fetch('https://auburn.doublemap.com/map/v2/stops')
     .then(response => response.json())
