@@ -1,7 +1,4 @@
 # Better Tiger Transit
-<p align="center">
-    <img height=400 src="https://raw.githubusercontent.com/Matt-Rog/better-tiger-transit/master/client/public/demo.png">
- </p>
  
 
 ## Problem
