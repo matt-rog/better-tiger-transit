@@ -1,17 +1,13 @@
-//import { writeFile } from 'fs';
-
 export class Graph {
 
     constructor(stops, routes, allowWalking){
 
         this.adjacencyList = {};
-        this.stopNodes = [];
         this.stops = stops
-        this.routes = routes
+        
         for (let i = 0; i < stops.length; i++) {
             var stop = stops[i];
             // Init StopNode
-            //var node = new StopNode(stop.id, [], haversine(stop.lat, stop.lon, endStop.lat, endStop.lon));
             this.addStopNode(stop.id);
             
             // Adding adjacent stops through official bus routes
@@ -21,10 +17,7 @@ export class Graph {
                 if(route.stops.length !== 0 && indexInRoute !== -1){ // this stop is a part of this route
                     // the next stop for this route comes after the index of the current one (it cycles)
                     var nextStopID = route.stops[(indexInRoute >= route.stops.length-1 ? 0 : indexInRoute + 1)];
-                    // var nextStop = stops.filter(function(v, i, r){
-                    //     return v.id === nextStopID;
-                    // })[0];
-                    //var newNode = new StopNode(stop.id, haversine(nextStop.lat, nextStop.lon, endStop.lat, endStop.lon));
+
                     this.addStopNode(nextStopID);
                     this.addEdge(stop.id, nextStopID, route);
                 }
@@ -40,19 +33,12 @@ export class Graph {
                 }
             } 
         }
-
-        // writeFile("adjacency.json", JSON.stringify(this.adjacencyList, null, 4), function(err) {
-        //     if(err) {
-        //       console.log(err);
-        //     }
-        // });
     }
 
     addStopNode(stopNode){
         // add a vertex to the adjacency list if it does not exist
         if (!this.adjacencyList[stopNode.toString()]){
             this.adjacencyList[stopNode.toString()] = [];
-            this.stopNodes.push(stopNode.toString());
         }
     }
 
